@@ -14,7 +14,7 @@ Customer Transaction Dataset: Includes demographics, spending habits, and purcha
 4 Visualization: Built insightful plots (strip plots, radar charts, bar graphs) to present segment-wise behaviors and patterns.
 
 # Technologies Used:
-1 Python: For data analysis and modeling
+1 Python: For data analysis and modeling<br>
 2 Pandas & NumPy: For data cleaning and manipulation
 3 Scikit-learn: For clustering, PCA, and basic modeling
 4 Matplotlib & Seaborn: For visualizing cluster behaviors and trends
