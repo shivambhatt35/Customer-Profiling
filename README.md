@@ -16,12 +16,12 @@ Identify distinct customer segments via unsupervised learning and analyze purcha
 
 ## 🔑 Key Features  
 
-| Feature No. | Description |
+| Feature     | Description |
 |-------------|-------------|
-| 1️⃣ | **Clustering & Segmentation:** Used KMeans clustering and PCA to segment customers based on behavioral and demographic features. |
-| 2️⃣ | **Behavioral Scoring:** Engineered features for churn risk, loyalty score, and aha moment detection to deepen profiles. |
-| 3️⃣ | **Statistical Analysis:** Analyzed campaign response, product spending, and discount usage across clusters. |
-| 4️⃣ | **Visualization:** Created strip plots, radar charts, and bar graphs to showcase segment-wise behaviors. |
+| **Clustering & Segmentation:** | Used KMeans clustering and PCA to segment customers based on behavioral and demographic features. |
+| **Behavioral Scoring:** | Engineered features for churn risk, loyalty score, and aha moment detection to deepen profiles. |
+| **Statistical Analysis:** | **Statistical Analysis:** Analyzed campaign response, product spending, and discount usage across clusters. |
+| **Visualization:** | Created strip plots, radar charts, and bar graphs to showcase segment-wise behaviors. |
 
 ---
 
