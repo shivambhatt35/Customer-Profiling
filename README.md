@@ -1,20 +1,38 @@
-# Customer-Profiling
-This project focuses on segmenting customers based on their behavior, engagement patterns, and demographic traits to enable data-driven marketing and retention strategies.
+# 🚀 Customer Profiling
 
-# Objective:
-To identify distinct customer segments using unsupervised learning and analyze their purchasing habits, discount sensitivity, and campaign responsiveness to support personalized targeting.
+A project focused on segmenting customers by behavior, engagement, and demographics to enable data-driven marketing and retention strategies.
 
-# Datasets Used:
-Customer Transaction Dataset: Includes demographics, spending habits, and purchase behavior.
+---
 
-# Key Features:
-1 Clustering & Segmentation: Applied KMeans clustering and PCA to segment customers based on behavioral and demographic features.<br>
-2 Behavioral Scoring: Designed features for churn risk, loyalty score, and aha moment detection to enhance profile depth.<br>
-3 Statistical Analysis: Performed in-depth analysis on campaign response, product spending, and discount usage per cluster.<br>
-4 Visualization: Built insightful plots (strip plots, radar charts, bar graphs) to present segment-wise behaviors and patterns.
+## 🎯 Objective  
+Identify distinct customer segments via unsupervised learning and analyze purchasing habits, discount sensitivity, and campaign responsiveness for personalized targeting.
 
-# Technologies Used:
-1 Python: For data analysis and modeling<br>
-2 Pandas & NumPy: For data cleaning and manipulation<br>
-3 Scikit-learn: For clustering, PCA, and basic modeling<br>
-4 Matplotlib & Seaborn: For visualizing cluster behaviors and trends<br>
+---
+
+## 📊 Datasets Used  
+- **Customer Transaction Dataset:** Demographics, spending habits, and purchase behavior.
+
+---
+
+## 🔑 Key Features  
+
+| Feature No. | Description |
+|-------------|-------------|
+| 1️⃣ | **Clustering & Segmentation:** Used KMeans clustering and PCA to segment customers based on behavioral and demographic features. |
+| 2️⃣ | **Behavioral Scoring:** Engineered features for churn risk, loyalty score, and aha moment detection to deepen profiles. |
+| 3️⃣ | **Statistical Analysis:** Analyzed campaign response, product spending, and discount usage across clusters. |
+| 4️⃣ | **Visualization:** Created strip plots, radar charts, and bar graphs to showcase segment-wise behaviors. |
+
+---
+
+## 🛠️ Technologies Used  
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Data analysis and modeling |
+| 🐼 Pandas & NumPy | Data cleaning and manipulation |
+| 🤖 Scikit-learn | Clustering, PCA, and modeling |
+| 📈 Matplotlib & Seaborn | Visualization of cluster behaviors and trends |
+
+---
+
