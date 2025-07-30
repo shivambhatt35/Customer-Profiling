@@ -1,6 +1,6 @@
 # 🚀 Customer Profiling
 
-A project focused on segmenting customers by behavior, engagement, and demographics to enable data-driven marketing and retention strategies.
+This project is a complete data analysis framework for understanding customer behavior, building meaningful segments, and enabling data-driven strategy. It blends exploratory analysis, statistically evaluation, machine learning, and advanced visualizations to uncover customer patterns and actionable profiles.
 
 ---
 
