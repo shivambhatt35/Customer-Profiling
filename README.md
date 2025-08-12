@@ -29,10 +29,10 @@ Identify distinct customer segments via unsupervised learning and analyze purcha
 
 | Technology | Purpose |
 |------------|---------|
-| 🐍 Python | Data analysis and modeling |
-| 🐼 Pandas & NumPy | Data cleaning and manipulation |
-| 🤖 Scikit-learn | Clustering, PCA, and modeling |
-| 📈 Matplotlib & Seaborn | Visualization of cluster behaviors and trends |
+|   Python | Data analysis and modeling |
+|   Pandas & NumPy | Data cleaning and manipulation |
+|   Scikit-learn | Clustering, PCA, and modeling |
+|   Matplotlib & Seaborn | Visualization of cluster behaviors and trends |
 
 ---
 
