@@ -1,20 +1,20 @@
-# 🚀 Customer Profiling
+# Customer Profiling
 
 This project is a complete data analysis framework for understanding customer behavior, building meaningful segments, and enabling data-driven strategy. It blends exploratory analysis, statistically evaluation, machine learning, and advanced visualizations to uncover customer patterns and actionable profiles.
 
 ---
 
-## 🎯 Objective  
+## Objective  
 Identify distinct customer segments via unsupervised learning and analyze purchasing habits, discount sensitivity, and campaign responsiveness for personalized targeting.
 
 ---
 
-## 📊 Datasets Used  
+## Datasets Used  
 - **Customer Transaction Dataset:** Demographics, spending habits, and purchase behavior.
 
 ---
 
-## 🔑 Key Features  
+## Key Features  
 
 | Feature     | Description |
 |-------------|-------------|
@@ -25,7 +25,7 @@ Identify distinct customer segments via unsupervised learning and analyze purcha
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 
 | Technology | Purpose |
 |------------|---------|
