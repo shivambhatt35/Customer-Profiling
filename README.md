@@ -97,9 +97,3 @@ The analysis primarily uses the **Customer Transaction Dataset**, which includes
 This project provides a **robust analytical framework** for understanding and profiling customers. By combining clustering, statistical analysis, and behavioral scoring, it enables businesses to take **data-driven decisions** that improve customer engagement, retention, and overall profitability.
 
 ---
-
-## Contact
-For questions, collaboration, or feedback, please reach out:  
-**Shivam Bhatt**  
-📧 Email: [your-email@example.com]  
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
