@@ -1,4 +1,4 @@
-# Customer Profiling and Segmentation Project
+# Customer Profiling and Segmentation
 
 ## Project Overview
 The **Customer Profiling and Segmentation Project** is a comprehensive data analysis framework aimed at understanding customer behavior, uncovering patterns, and enabling data-driven business strategies. This project leverages a combination of **exploratory data analysis (EDA)**, **statistical evaluation**, **unsupervised machine learning**, and **advanced visualizations** to identify meaningful customer segments and actionable insights.
